@@ -1,4 +1,4 @@
 jraster
 =======
 
-Javascript raster tools that can be run in a browser
+Javascript raster tools that can be run in a browser.
